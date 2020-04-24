@@ -10,4 +10,10 @@ feature2()
 f2;
 }
 
+adding latest important code | emergency deployment
+
+security patch()
+{
+s1;
+}
 
